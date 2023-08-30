@@ -49,6 +49,7 @@ header, #firsts{
    padding-bottom: 50px;
 }
 #firsts h1{
+    margin-top:-20px;
     font-size: 48px;
     font-weight: bold;
 }
