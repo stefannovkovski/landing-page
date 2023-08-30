@@ -78,7 +78,6 @@ button{
 }
 
 #second{
-  padding-left: 54px;
   padding-bottom:130px;
 }
 
@@ -92,6 +91,7 @@ button{
 #second2{
     padding-top: 60px;
     display: flex;
+    justify-content:center;
    
 }
 #second2 div{
